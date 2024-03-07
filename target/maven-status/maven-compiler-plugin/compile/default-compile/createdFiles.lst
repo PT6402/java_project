@@ -1,1 +1,5 @@
+demo\util\ValidatorUtil.class
+demo\util\JDBCUtil.class
 demo\controller\HomeServlet.class
+demo\util\FileUtil.class
+demo\util\JsonUtil.class
